@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D75FB157-2117-459E-A598-31875DFA07F5}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile.txt = TextFile.txt
+		Wellcome.html = Wellcome.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {220DCD06-D397-4BBA-96B6-B8ECA5EEFD91}
+	EndGlobalSection
+EndGlobal
